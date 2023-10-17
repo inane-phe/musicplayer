@@ -1,0 +1,9 @@
+C:\Users\User\Downloads\musicplayer\musicplayer\bin\Debug\musicplayer.exe.config
+C:\Users\User\Downloads\musicplayer\musicplayer\bin\Debug\musicplayer.exe
+C:\Users\User\Downloads\musicplayer\musicplayer\bin\Debug\musicplayer.pdb
+C:\Users\User\Downloads\musicplayer\musicplayer\obj\Debug\musicplayer.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\musicplayer\musicplayer\obj\Debug\musicplayer.Form1.resources
+C:\Users\User\Downloads\musicplayer\musicplayer\obj\Debug\musicplayer.Properties.Resources.resources
+C:\Users\User\Downloads\musicplayer\musicplayer\obj\Debug\musicplayer.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\musicplayer\musicplayer\obj\Debug\musicplayer.exe
+C:\Users\User\Downloads\musicplayer\musicplayer\obj\Debug\musicplayer.pdb
